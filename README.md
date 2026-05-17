@@ -18,10 +18,9 @@ Operational teams often struggle with fragmented information across systems, mak
 
 This dashboard was created to centralize operational and billing information into a single reporting view.
 
-## Data Sources
-
+## Data Model Structure - Data Sources
+The project uses a relational data model (Power Pivot):
 ### CRM Data
-
 Contains operational ticket information:
 
 * Ticket ID
@@ -33,7 +32,6 @@ Contains operational ticket information:
 * System
 
 ### Billing Data
-
 Contains cost allocation information:
 
 * Hours
@@ -42,7 +40,6 @@ Contains cost allocation information:
 * Client
 
 ## Data Ingestion
-
 This dashboard is powered by two CSV files:
 
 - CRM_EXPORT.csv
@@ -61,13 +58,8 @@ The dashboard includes several operational and financial KPIs:
 * Open Tickets
 * Client Count
 * Average Cost per Client
-* Active Client Percentage
-* Duplicate Check
 * Monthly Ticket Trend
 * Client Workload Overview
-
-Additional KPI under development:
-
 * Hourly Rate (€ / Hour)
 
 ## Excel Features Used
@@ -124,7 +116,7 @@ This simulates a lightweight reporting automation workflow.
 
 ## Dashboard Preview
 
-![Dashboard Preview](blob/main/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 
 ## Future Improvements
@@ -149,6 +141,7 @@ This simulates a lightweight reporting automation workflow.
 * VBA Automation
 * Operational Reporting
 
-## Disclaimer
-
+## Purpose
+This project demonstrates Excel-based Business Intelligence capabilities, bridging PMO experience with data analytics and automation mindset. 
 This project uses simulated data for demonstration and portfolio purposes.
+
