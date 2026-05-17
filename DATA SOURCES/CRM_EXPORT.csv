@@ -1,0 +1,35 @@
+﻿Ticket_ID;Date;Client;Issue_Type;Status;Priority;System
+CRM001;10/01/2026;Client A;Login issue;Open;High;CRM
+CRM002;11/01/2026;Client B;Billing error;Closed;Medium;CRM
+CRM003;12/01/2026;Client C;Access issue;Open;Low;CRM
+CRM004;14/02/2026;Client D;Test;Open;Low;CRM
+CRM005;15/02/2026;Client E;Meter data issue;Open;High;CRM
+CRM006;16/02/2026;Client F;Customer portal access;Resolved;Medium;CRM
+CRM007;17/02/2026;Client G;Billing discrepancy;Closed;High;CRM
+CRM008;18/02/2026;Client H;Service interruption;In Progress;Critical;CRM
+CRM009;20/02/2026;Client I;CRM sync error;Pending;Medium;CRM
+CRM010;21/02/2026;Client J;Contract update request;Closed;Low;CRM
+CRM011;22/02/2026;Client K;Invoice delay;Open;Medium;CRM
+CRM012;23/02/2026;Client L;Account access issue;Resolved;Low;CRM
+CRM013;24/02/2026;Client M;Billing discrepancy;Open;High;CRM
+CRM014;25/02/2026;Client N;Customer portal access;Resolved;Medium;CRM
+CRM015;26/02/2026;Client O;Meter data issue;Closed;Medium;CRM
+CRM016;27/02/2026;Client P;Service interruption;In Progress;Critical;CRM
+CRM017;28/02/2026;Client Q;Contract update request;Closed;Low;CRM
+CRM018;01/03/2026;Client R;Billing discrepancy;Pending;High;CRM
+CRM019;02/03/2026;Client S;CRM sync error;Open;Medium;CRM
+CRM020;03/03/2026;Client T;Account access issue;Resolved;Low;CRM
+CRM021;04/03/2026;Client U;Invoice delay;Open;Medium;CRM
+CRM022;05/03/2026;Client V;Meter data issue;Closed;Medium;CRM
+CRM023;06/03/2026;Client W;Billing discrepancy;Resolved;High;CRM
+CRM024;07/03/2026;Client X;Service interruption;Open;Critical;CRM
+CRM025;08/03/2026;Client Y;Customer portal access;Closed;Low;CRM
+CRM026;09/03/2026;Client Z;CRM sync error;Pending;Medium;CRM
+CRM027;10/03/2026;Client AA;Billing discrepancy;Open;High;CRM
+CRM028;11/03/2026;Client BB;Invoice delay;Closed;Low;CRM
+CRM029;12/03/2026;Client CC;Account access issue;Resolved;Medium;CRM
+CRM030;13/03/2026;Client DD;Meter data issue;Open;Medium;CRM
+CRM031;14/03/2026;Client EE;Service interruption;Resolved;Critical;CRM
+CRM032;15/03/2026;Client FF;Contract update request;Closed;Low;CRM
+CRM033;16/03/2026;Client GG;Billing discrepancy;Open;High;CRM
+CRM034;17/03/2026;Client HH;Customer portal access;Pending;Medium;CRM
