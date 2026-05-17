@@ -124,7 +124,7 @@ This simulates a lightweight reporting automation workflow.
 
 ## Dashboard Preview
 
-![Dashboard Preview](main/dashboard_preview.png)
+![Dashboard Preview](blob/main/dashboard_preview.png)
 
 
 ## Future Improvements
